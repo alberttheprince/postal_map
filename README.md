@@ -11,7 +11,7 @@ Add {"code":"100","y":-1267.01,"x":288.83}, to the ocrp-postal json postals.
 
 **Edits by Popcorn Roleplay:**
 
-- Added postal 101 as a replacement for the error of postal 139 being used twice.
+- Added postal 100 as a replacement for the error of postal 139 being used twice.
 - Added fxmanifest.lua
 - removed Citizen.
 - Added a modified worldview image originally by Mrowen (fixed 139 postal issue)
